@@ -1,2 +1,2 @@
 # datecounter-react
-Created with CodeSandbox
+Small app for date counter created with React.
